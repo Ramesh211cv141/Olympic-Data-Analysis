@@ -5,6 +5,7 @@ import preprocessor,helper
 import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
+import scipy
 import plotly.figure_factory as ff
 
 # Read the Olympic data from CSV files
